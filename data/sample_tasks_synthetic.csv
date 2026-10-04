@@ -1,0 +1,321 @@
+task_id,text,priority,category,size,color,steps_total,steps_done,created_at,remind_at,first_remind_at,done,done_at,archived,snoozes,focus_minutes
+syn0283,Practice midterm,normal,exam,deep,lime,5,5,2026-09-03T07:36:00.000Z,2026-09-10T07:14:01.000Z,2026-09-10T05:44:01.000Z,true,2026-09-20T15:38:43.000Z,true,6,0
+syn0272,Plan the weekend,high,personal,deep,lime,0,0,2026-09-03T18:05:00.000Z,2026-09-04T13:26:25.000Z,2026-09-04T13:26:25.000Z,false,,false,0,0
+syn0299,Problem set 3,soft,assignment,short,lime,0,0,2026-09-03T20:24:00.000Z,2026-09-04T01:07:44.000Z,2026-09-04T01:07:44.000Z,true,2026-09-04T19:22:52.000Z,true,0,0
+syn0192,Review lectures 6-8,soft,exam,short,canary,0,0,2026-09-03T21:58:00.000Z,2026-09-04T08:02:05.000Z,2026-09-04T08:02:05.000Z,false,,false,0,0
+syn0311,Review lectures 5-7,normal,exam,short,lime,5,5,2026-09-03T22:01:00.000Z,2026-09-04T02:20:51.000Z,2026-09-04T01:50:51.000Z,true,2026-09-04T13:26:56.000Z,false,2,0
+syn0227,Watch lecture 5 recording,soft,class,long,canary,0,0,2026-09-04T00:08:00.000Z,2026-09-04T08:26:17.000Z,2026-09-04T08:26:17.000Z,true,2026-09-04T16:52:49.000Z,true,0,75
+syn0177,Prep for shift,high,work,deep,lilac,0,0,2026-09-04T01:29:00.000Z,,,true,2026-09-07T23:51:12.000Z,false,3,0
+syn0065,Problem set 9,high,assignment,tiny,rose,4,4,2026-09-04T02:18:00.000Z,2026-09-04T04:45:32.000Z,2026-09-04T04:45:32.000Z,true,2026-09-04T03:16:15.000Z,true,0,0
+syn0194,Reply to manager,soft,work,tiny,rose,0,0,2026-09-04T02:19:00.000Z,2026-09-04T02:34:00.000Z,2026-09-04T02:34:00.000Z,true,2026-09-04T02:32:34.000Z,true,0,0
+syn0210,Gym session,normal,health,long,canary,0,0,2026-09-04T03:07:00.000Z,2026-09-04T04:47:57.000Z,2026-09-04T04:02:57.000Z,true,2026-09-05T04:39:07.000Z,true,3,0
+syn0267,Lab report 6,high,assignment,short,aqua,0,0,2026-09-04T14:10:00.000Z,2026-09-04T20:46:38.000Z,2026-09-04T20:46:38.000Z,true,2026-09-04T16:22:25.000Z,true,0,0
+syn0067,Pick up a parcel,soft,errand,long,canary,4,2,2026-09-04T14:53:00.000Z,2026-09-05T17:57:44.000Z,2026-09-05T17:57:44.000Z,false,,false,0,65
+syn0186,Submit timesheet,normal,work,long,lime,0,0,2026-09-04T15:25:00.000Z,2026-09-05T10:48:38.000Z,2026-09-05T10:48:38.000Z,true,2026-09-05T14:28:56.000Z,true,0,0
+syn0185,Problem set 8,urgent,assignment,tiny,tangerine,2,2,2026-09-04T16:34:00.000Z,2026-09-04T18:21:16.000Z,2026-09-04T18:21:16.000Z,true,2026-09-04T16:39:08.000Z,true,0,0
+syn0278,Problem set 8,urgent,assignment,long,aqua,3,3,2026-09-04T16:54:00.000Z,,,true,2026-09-05T01:14:36.000Z,false,0,80
+syn0130,Essay draft,urgent,assignment,long,rose,0,0,2026-09-04T20:19:00.000Z,2026-09-05T01:02:16.000Z,2026-09-05T01:02:16.000Z,true,2026-09-05T22:01:50.000Z,false,0,40
+syn0307,Book a doctor's appointment,normal,health,long,canary,2,2,2026-09-04T20:19:00.000Z,2026-09-04T20:53:23.000Z,2026-09-04T20:53:23.000Z,true,2026-09-06T15:07:09.000Z,true,0,0
+syn0093,Problem set 8,normal,assignment,deep,tangerine,0,0,2026-09-04T20:56:00.000Z,2026-09-05T00:33:04.000Z,2026-09-05T00:33:04.000Z,true,2026-09-05T22:38:42.000Z,true,0,90
+syn0131,Review lectures 3-5,high,exam,long,lime,4,4,2026-09-04T21:33:00.000Z,2026-09-05T11:49:08.000Z,2026-09-05T10:49:08.000Z,true,2026-09-08T16:29:58.000Z,true,4,75
+syn0038,Practice midterm,normal,exam,tiny,tangerine,0,0,2026-09-05T01:43:00.000Z,2026-09-05T01:58:00.000Z,2026-09-05T01:58:00.000Z,true,2026-09-05T02:46:12.000Z,true,0,0
+syn0263,Watch lecture 3 recording,urgent,class,tiny,lilac,0,0,2026-09-05T03:07:00.000Z,2026-09-05T03:22:00.000Z,2026-09-05T03:22:00.000Z,true,2026-09-05T03:33:59.000Z,true,0,0
+syn0296,Lab report 1,high,assignment,short,tangerine,0,0,2026-09-05T03:40:00.000Z,2026-09-05T04:50:21.000Z,2026-09-05T04:20:21.000Z,false,,false,2,15
+syn0051,Lab report 3,normal,assignment,tiny,aqua,0,0,2026-09-05T05:04:00.000Z,2026-09-05T06:13:38.000Z,2026-09-05T06:13:38.000Z,true,2026-09-05T05:22:53.000Z,true,0,0
+syn0125,Practice midterm,normal,exam,tiny,canary,5,5,2026-09-05T15:48:00.000Z,2026-09-05T17:06:11.000Z,2026-09-05T17:06:11.000Z,true,2026-09-05T16:11:40.000Z,true,0,0
+syn0050,Email the TA,high,class,short,aqua,0,0,2026-09-05T16:00:00.000Z,2026-09-05T17:07:45.000Z,2026-09-05T17:07:45.000Z,true,2026-09-05T20:10:17.000Z,true,0,0
+syn0175,Groceries,normal,errand,deep,lilac,0,0,2026-09-05T16:30:00.000Z,2026-09-06T07:02:54.000Z,2026-09-06T06:47:54.000Z,true,2026-09-11T00:09:52.000Z,true,1,0
+syn0122,Lab report 9,high,assignment,short,aqua,0,0,2026-09-05T21:16:00.000Z,2026-09-05T22:18:26.000Z,2026-09-05T21:48:26.000Z,true,2026-09-05T22:56:47.000Z,true,2,15
+syn0106,Watch lecture 1 recording,normal,class,deep,tangerine,2,2,2026-09-05T21:37:00.000Z,2026-09-13T11:45:24.000Z,2026-09-13T11:00:24.000Z,true,2026-09-07T21:32:56.000Z,false,3,40
+syn0237,Submit timesheet,normal,work,short,aqua,0,0,2026-09-05T23:15:00.000Z,2026-09-06T03:04:47.000Z,2026-09-06T03:04:47.000Z,true,2026-09-06T00:53:50.000Z,true,0,15
+syn0203,Problem set 7,normal,assignment,short,lime,0,0,2026-09-05T23:18:00.000Z,2026-09-06T06:53:37.000Z,2026-09-06T06:38:37.000Z,true,2026-09-06T09:23:16.000Z,false,1,0
+syn0143,Read chapter 8,high,class,short,canary,4,4,2026-09-06T02:56:00.000Z,2026-09-06T09:45:49.000Z,2026-09-06T09:45:49.000Z,true,2026-09-06T06:08:42.000Z,true,0,0
+syn0090,Essay draft,soft,assignment,tiny,lilac,0,0,2026-09-06T16:47:00.000Z,2026-09-06T18:08:52.000Z,2026-09-06T18:08:52.000Z,true,2026-09-06T17:12:09.000Z,true,0,0
+syn0206,Laundry,high,errand,long,rose,0,0,2026-09-06T17:08:00.000Z,2026-09-09T07:49:15.000Z,2026-09-09T07:49:15.000Z,true,2026-09-07T11:12:21.000Z,false,0,75
+syn0242,Submit timesheet,soft,work,short,aqua,0,0,2026-09-06T19:09:00.000Z,2026-09-06T20:53:55.000Z,2026-09-06T20:53:55.000Z,true,2026-09-06T21:48:30.000Z,true,0,0
+syn0142,Review lectures 8-10,urgent,exam,short,canary,0,0,2026-09-06T19:32:00.000Z,2026-09-07T02:38:54.000Z,2026-09-07T02:38:54.000Z,true,2026-09-07T01:57:22.000Z,false,0,0
+syn0015,Review lectures 7-9,high,exam,short,rose,2,2,2026-09-07T01:06:00.000Z,2026-09-07T02:19:51.000Z,2026-09-07T02:19:51.000Z,true,2026-09-07T03:30:17.000Z,false,0,15
+syn0075,Watch lecture 6 recording,soft,class,short,tangerine,0,0,2026-09-07T01:41:00.000Z,2026-09-08T03:38:06.000Z,2026-09-08T03:23:06.000Z,false,,false,1,0
+syn0202,Clean the project dataset,urgent,project,long,tangerine,0,0,2026-09-07T03:19:00.000Z,2026-09-07T16:45:09.000Z,2026-09-07T16:45:09.000Z,true,2026-09-08T13:32:21.000Z,true,0,115
+syn0104,Essay draft,high,assignment,short,canary,0,0,2026-09-07T12:24:00.000Z,,,true,2026-09-07T21:19:55.000Z,true,3,0
+syn0166,Meal prep,urgent,health,short,canary,0,0,2026-09-07T17:20:00.000Z,2026-09-07T19:16:15.000Z,2026-09-07T19:01:15.000Z,true,2026-09-08T06:47:12.000Z,true,1,5
+syn0029,Essay draft,normal,assignment,short,lilac,0,0,2026-09-07T22:07:00.000Z,2026-09-08T02:54:15.000Z,2026-09-08T02:54:15.000Z,true,2026-09-08T01:20:01.000Z,false,0,0
+syn0320,Prep for shift,high,work,long,rose,4,4,2026-09-07T22:59:00.000Z,,,true,2026-09-08T07:40:30.000Z,false,0,25
+syn0037,Make a formula sheet,normal,exam,short,lilac,2,2,2026-09-07T23:45:00.000Z,,,true,2026-09-08T04:04:46.000Z,true,0,0
+syn0213,Essay draft,urgent,assignment,tiny,rose,0,0,2026-09-08T01:49:00.000Z,,,true,2026-09-08T01:54:03.000Z,true,0,0
+syn0070,Read chapter 5,normal,class,deep,tangerine,4,4,2026-09-08T15:35:00.000Z,2026-09-09T01:45:39.000Z,2026-09-09T01:45:39.000Z,true,2026-09-11T17:55:16.000Z,false,0,40
+syn0040,Watch lecture 8 recording,high,class,long,tangerine,5,5,2026-09-08T16:42:00.000Z,2026-09-09T03:31:51.000Z,2026-09-09T03:31:51.000Z,true,2026-09-09T01:20:33.000Z,true,0,0
+syn0126,Clean the project dataset,high,project,tiny,rose,0,0,2026-09-08T17:59:00.000Z,2026-09-08T18:50:32.000Z,2026-09-08T18:50:32.000Z,true,2026-09-08T21:03:51.000Z,true,0,0
+syn0229,Book a haircut,high,personal,short,lilac,0,0,2026-09-08T18:09:00.000Z,2026-09-09T03:22:13.000Z,2026-09-09T02:52:13.000Z,true,2026-09-08T21:35:07.000Z,true,2,0
+syn0100,Email the TA,normal,class,long,aqua,5,5,2026-09-08T19:54:00.000Z,2026-09-10T14:15:05.000Z,2026-09-10T14:15:05.000Z,true,2026-09-09T15:03:51.000Z,false,0,0
+syn0243,Reading response 8,urgent,assignment,short,lilac,0,0,2026-09-08T21:28:00.000Z,2026-09-09T01:20:39.000Z,2026-09-09T00:20:39.000Z,true,2026-09-09T04:13:37.000Z,true,4,0
+syn0089,Essay draft,normal,assignment,tiny,lime,2,2,2026-09-08T21:29:00.000Z,2026-09-08T22:15:54.000Z,2026-09-08T22:15:54.000Z,true,2026-09-08T21:36:56.000Z,true,0,0
+syn0298,Lab report 5,normal,assignment,short,rose,0,0,2026-09-09T01:33:00.000Z,2026-09-09T03:43:34.000Z,2026-09-09T02:28:34.000Z,true,2026-09-10T00:05:26.000Z,true,5,5
+syn0259,Email the TA,normal,class,tiny,lime,0,0,2026-09-09T03:23:00.000Z,2026-09-09T03:38:00.000Z,2026-09-09T03:38:00.000Z,true,2026-09-09T03:32:10.000Z,false,0,0
+syn0056,Read chapter 7,urgent,class,long,lilac,0,0,2026-09-09T17:54:00.000Z,2026-09-10T10:23:13.000Z,2026-09-10T10:23:13.000Z,true,2026-09-11T23:45:23.000Z,true,0,100
+syn0201,Practice midterm,high,exam,tiny,tangerine,0,0,2026-09-09T18:00:00.000Z,2026-09-09T19:30:51.000Z,2026-09-09T19:30:51.000Z,true,2026-09-09T18:23:43.000Z,true,0,0
+syn0046,Practice midterm,normal,exam,short,rose,0,0,2026-09-09T19:02:00.000Z,2026-09-10T07:29:15.000Z,2026-09-10T06:59:15.000Z,true,2026-09-10T00:09:25.000Z,true,2,0
+syn0138,Reply to manager,normal,work,short,canary,0,0,2026-09-09T21:52:00.000Z,2026-09-09T23:53:11.000Z,2026-09-09T23:23:11.000Z,true,2026-09-10T10:40:48.000Z,true,2,15
+syn0047,Groceries,urgent,errand,short,tangerine,0,0,2026-09-09T23:35:00.000Z,,,true,2026-09-10T06:58:41.000Z,true,1,0
+syn0008,Write project proposal,soft,project,short,lime,0,0,2026-09-10T01:26:00.000Z,2026-09-10T07:35:06.000Z,2026-09-10T07:05:06.000Z,true,2026-09-13T13:09:24.000Z,true,2,25
+syn0319,Reading response 4,normal,assignment,long,lime,2,2,2026-09-10T02:59:00.000Z,,,true,2026-09-10T12:53:54.000Z,true,0,80
+syn0187,Group project check-in,normal,project,long,lime,0,0,2026-09-10T12:29:00.000Z,2026-09-10T21:08:09.000Z,2026-09-10T20:23:09.000Z,true,2026-09-11T09:46:18.000Z,false,3,0
+syn0247,Groceries,normal,errand,long,tangerine,0,0,2026-09-10T14:35:00.000Z,,,true,2026-09-10T20:56:17.000Z,true,0,125
+syn0286,Lab report 9,normal,assignment,short,lime,0,0,2026-09-10T15:32:00.000Z,2026-09-11T16:02:46.000Z,2026-09-11T16:02:46.000Z,true,2026-09-11T04:02:20.000Z,true,0,0
+syn0154,Reading response 2,high,assignment,deep,canary,2,0,2026-09-10T15:59:00.000Z,2026-09-14T13:31:37.000Z,2026-09-14T12:46:37.000Z,false,,false,3,0
+syn0290,Call home,urgent,personal,deep,aqua,0,0,2026-09-10T17:09:00.000Z,2026-09-15T06:03:52.000Z,2026-09-15T06:03:52.000Z,true,2026-09-12T12:04:09.000Z,true,0,100
+syn0083,Call home,soft,personal,short,aqua,3,0,2026-09-10T18:05:00.000Z,2026-09-10T20:16:11.000Z,2026-09-10T20:16:11.000Z,false,,false,0,0
+syn0021,Review lectures 9-11,normal,exam,tiny,rose,0,0,2026-09-10T20:14:00.000Z,2026-09-10T23:58:12.000Z,2026-09-10T23:58:12.000Z,true,2026-09-10T21:09:59.000Z,true,0,0
+syn0062,Gym session,urgent,health,long,lilac,0,0,2026-09-11T17:54:00.000Z,2026-09-12T06:56:04.000Z,2026-09-12T06:56:04.000Z,true,2026-09-14T23:07:04.000Z,true,0,100
+syn0182,Essay draft,normal,assignment,deep,lime,0,0,2026-09-11T22:02:00.000Z,2026-09-16T10:13:33.000Z,2026-09-16T09:28:33.000Z,true,2026-09-17T15:26:56.000Z,true,3,100
+syn0248,Reading response 6,urgent,assignment,long,rose,5,5,2026-09-12T01:05:00.000Z,2026-09-12T03:32:16.000Z,2026-09-12T03:32:16.000Z,true,2026-09-12T22:28:02.000Z,true,0,0
+syn0252,Reading response 9,normal,assignment,deep,rose,0,0,2026-09-12T01:06:00.000Z,2026-09-12T18:44:52.000Z,2026-09-12T17:14:52.000Z,true,2026-09-23T03:30:07.000Z,true,6,0
+syn0277,Plan the weekend,high,personal,long,canary,0,0,2026-09-12T01:17:00.000Z,2026-09-12T23:18:14.000Z,2026-09-12T22:33:14.000Z,true,2026-09-12T14:49:05.000Z,true,3,0
+syn0164,Email the TA,high,class,deep,canary,3,3,2026-09-12T07:29:00.000Z,2026-09-13T12:32:00.000Z,2026-09-13T12:32:00.000Z,true,2026-09-13T00:13:36.000Z,true,0,30
+syn0119,Laundry,high,errand,short,tangerine,4,4,2026-09-12T13:55:00.000Z,2026-09-13T14:49:30.000Z,2026-09-13T14:49:30.000Z,true,2026-09-12T19:20:59.000Z,true,0,0
+syn0238,Reading response 3,normal,assignment,short,aqua,0,0,2026-09-12T17:05:00.000Z,2026-09-12T18:12:45.000Z,2026-09-12T17:57:45.000Z,true,2026-09-13T08:38:16.000Z,true,1,0
+syn0184,Review lectures 3-5,soft,exam,tiny,tangerine,0,0,2026-09-12T17:40:00.000Z,2026-09-12T17:55:00.000Z,2026-09-12T17:55:00.000Z,true,2026-09-12T18:07:07.000Z,true,0,0
+syn0199,Essay draft,high,assignment,tiny,rose,3,3,2026-09-12T17:50:00.000Z,2026-09-12T18:05:00.000Z,2026-09-12T18:05:00.000Z,true,2026-09-12T18:01:04.000Z,false,0,0
+syn0241,Reading response 8,urgent,assignment,tiny,canary,0,0,2026-09-12T23:36:00.000Z,2026-09-13T00:37:46.000Z,2026-09-13T00:37:46.000Z,true,2026-09-13T02:50:47.000Z,false,0,0
+syn0146,Clean the project dataset,soft,project,long,rose,2,2,2026-09-12T23:56:00.000Z,2026-09-13T20:00:20.000Z,2026-09-13T19:00:20.000Z,true,2026-09-15T12:32:34.000Z,true,4,65
+syn0018,Essay draft,normal,assignment,deep,tangerine,0,0,2026-09-13T00:18:00.000Z,2026-09-13T07:02:02.000Z,2026-09-13T06:02:02.000Z,true,2026-09-13T19:26:52.000Z,true,4,90
+syn0302,Watch lecture 5 recording,high,class,short,canary,0,0,2026-09-13T02:50:00.000Z,2026-09-13T09:17:28.000Z,2026-09-13T08:47:28.000Z,true,2026-09-13T17:10:18.000Z,true,2,15
+syn0281,Review lectures 6-8,normal,exam,long,lilac,2,2,2026-09-13T03:37:00.000Z,2026-09-15T12:35:43.000Z,2026-09-15T12:20:43.000Z,true,2026-09-13T13:59:02.000Z,true,1,40
+syn0086,Meal prep,normal,health,tiny,rose,0,0,2026-09-13T04:59:00.000Z,2026-09-13T05:46:13.000Z,2026-09-13T05:46:13.000Z,true,2026-09-13T05:33:50.000Z,true,0,0
+syn0204,Clean the project dataset,urgent,project,long,aqua,3,3,2026-09-13T12:48:00.000Z,2026-09-16T19:45:28.000Z,2026-09-16T19:45:28.000Z,true,2026-09-14T22:27:42.000Z,true,0,80
+syn0171,Reply to manager,soft,work,tiny,lime,4,4,2026-09-13T14:09:00.000Z,2026-09-13T15:30:14.000Z,2026-09-13T15:30:14.000Z,true,2026-09-13T14:53:30.000Z,true,0,0
+syn0003,Groceries,normal,errand,tiny,aqua,0,0,2026-09-13T14:34:00.000Z,2026-09-13T15:25:40.000Z,2026-09-13T15:25:40.000Z,true,2026-09-13T16:35:44.000Z,true,0,0
+syn0020,Lab report 2,normal,assignment,short,lilac,0,0,2026-09-13T15:40:00.000Z,,,true,2026-09-13T17:51:06.000Z,true,0,0
+syn0198,Practice midterm,high,exam,deep,tangerine,3,2,2026-09-13T16:47:00.000Z,,,false,,false,2,25
+syn0254,Essay draft,high,assignment,tiny,lime,4,4,2026-09-13T19:28:00.000Z,2026-09-13T20:46:16.000Z,2026-09-13T20:46:16.000Z,true,2026-09-13T19:50:23.000Z,false,0,0
+syn0273,Essay draft,high,assignment,long,lilac,0,0,2026-09-13T19:51:00.000Z,2026-09-14T10:54:24.000Z,2026-09-14T10:54:24.000Z,true,2026-09-14T00:32:05.000Z,true,0,40
+syn0121,Watch lecture 7 recording,soft,class,long,rose,0,0,2026-09-13T21:26:00.000Z,2026-09-16T02:55:59.000Z,2026-09-16T02:10:59.000Z,true,2026-09-15T01:06:33.000Z,true,3,115
+syn0035,Essay draft,normal,assignment,short,rose,3,3,2026-09-13T21:42:00.000Z,,,true,2026-09-14T12:15:46.000Z,true,0,0
+syn0269,Prep for shift,high,work,short,lime,0,0,2026-09-13T22:51:00.000Z,2026-09-14T01:14:16.000Z,2026-09-14T01:14:16.000Z,true,2026-09-14T02:28:53.000Z,true,0,0
+syn0009,Reply to manager,normal,work,tiny,lilac,0,0,2026-09-14T00:36:00.000Z,2026-09-14T01:29:11.000Z,2026-09-14T01:29:11.000Z,true,2026-09-14T03:33:12.000Z,true,0,0
+syn0045,Watch lecture 8 recording,normal,class,deep,tangerine,5,5,2026-09-14T01:19:00.000Z,2026-09-15T11:57:34.000Z,2026-09-15T11:57:34.000Z,true,2026-09-16T15:19:16.000Z,true,0,50
+syn0109,Laundry,normal,errand,short,canary,0,0,2026-09-14T01:58:00.000Z,2026-09-14T03:12:47.000Z,2026-09-14T02:42:47.000Z,true,2026-09-14T22:16:23.000Z,false,2,0
+syn0230,Watch lecture 8 recording,soft,class,tiny,aqua,0,0,2026-09-14T02:59:00.000Z,,,true,2026-09-14T03:22:05.000Z,false,0,0
+syn0084,Laundry,soft,errand,short,aqua,3,3,2026-09-14T03:11:00.000Z,2026-09-14T10:29:47.000Z,2026-09-14T10:29:47.000Z,true,2026-09-14T07:55:05.000Z,false,0,0
+syn0150,Review lectures 5-7,urgent,exam,deep,tangerine,0,0,2026-09-14T03:40:00.000Z,2026-09-15T19:24:28.000Z,2026-09-15T18:24:28.000Z,true,2026-09-27T15:31:48.000Z,false,4,50
+syn0165,Laundry,urgent,errand,deep,rose,0,0,2026-09-14T04:02:00.000Z,2026-09-16T05:47:11.000Z,2026-09-16T05:47:11.000Z,true,2026-09-15T05:22:34.000Z,false,0,50
+syn0200,Watch lecture 3 recording,high,class,deep,lilac,0,0,2026-09-14T12:05:00.000Z,2026-09-16T16:20:11.000Z,2026-09-16T15:35:11.000Z,false,,false,3,0
+syn0276,Submit timesheet,normal,work,tiny,lime,0,0,2026-09-14T14:33:00.000Z,2026-09-14T14:53:50.000Z,2026-09-14T14:53:50.000Z,true,2026-09-14T14:57:39.000Z,true,0,0
+syn0181,Laundry,normal,errand,short,canary,0,0,2026-09-14T15:53:00.000Z,2026-09-14T16:08:00.000Z,2026-09-14T16:08:00.000Z,true,2026-09-14T18:31:13.000Z,true,0,0
+syn0112,Lab report 1,urgent,assignment,long,rose,0,0,2026-09-14T17:54:00.000Z,2026-09-15T10:43:48.000Z,2026-09-15T10:43:48.000Z,true,2026-09-15T06:58:29.000Z,false,0,65
+syn0233,Submit timesheet,high,work,long,aqua,4,4,2026-09-14T18:14:00.000Z,2026-09-17T05:59:56.000Z,2026-09-17T05:59:56.000Z,true,2026-09-15T16:29:22.000Z,true,0,0
+syn0156,Prep for shift,urgent,work,short,rose,0,0,2026-09-14T20:04:00.000Z,2026-09-14T21:11:51.000Z,2026-09-14T20:41:51.000Z,true,2026-09-14T23:11:48.000Z,false,2,0
+syn0082,Essay draft,high,assignment,short,aqua,0,0,2026-09-14T20:12:00.000Z,2026-09-15T00:43:05.000Z,2026-09-15T00:43:05.000Z,true,2026-09-15T02:33:10.000Z,false,0,0
+syn0115,Reading response 1,high,assignment,tiny,rose,0,0,2026-09-14T21:23:00.000Z,2026-09-14T21:52:14.000Z,2026-09-14T21:52:14.000Z,true,2026-09-14T21:34:33.000Z,true,0,0
+syn0188,Meal prep,normal,health,tiny,rose,3,3,2026-09-14T21:51:00.000Z,,,true,2026-09-15T00:29:28.000Z,true,0,0
+syn0221,Book a haircut,high,personal,short,lime,0,0,2026-09-14T23:30:00.000Z,2026-09-15T19:44:19.000Z,2026-09-15T19:44:19.000Z,true,2026-09-15T09:02:52.000Z,true,0,0
+syn0297,Practice midterm,high,exam,short,aqua,5,5,2026-09-14T23:32:00.000Z,2026-09-15T00:05:31.000Z,2026-09-14T23:50:31.000Z,true,2026-09-15T03:46:01.000Z,true,1,25
+syn0235,Meal prep,urgent,health,tiny,lime,0,0,2026-09-15T01:09:00.000Z,2026-09-15T01:43:57.000Z,2026-09-15T01:43:57.000Z,true,2026-09-15T01:23:45.000Z,false,0,0
+syn0063,Groceries,normal,errand,short,tangerine,3,3,2026-09-15T02:19:00.000Z,2026-09-15T09:44:03.000Z,2026-09-15T09:29:03.000Z,true,2026-09-15T08:09:25.000Z,true,1,0
+syn0064,Read chapter 8,high,class,tiny,aqua,0,0,2026-09-15T02:27:00.000Z,2026-09-15T02:53:25.000Z,2026-09-15T02:53:25.000Z,true,2026-09-15T02:30:07.000Z,false,0,0
+syn0114,Prep for shift,high,work,short,lime,4,4,2026-09-15T03:47:00.000Z,2026-09-15T04:15:24.000Z,2026-09-15T04:15:24.000Z,true,2026-09-15T06:27:28.000Z,false,0,0
+syn0168,Group project check-in,soft,project,short,aqua,0,0,2026-09-15T03:52:00.000Z,2026-09-15T06:17:32.000Z,2026-09-15T05:47:32.000Z,true,2026-09-15T08:06:58.000Z,false,2,5
+syn0295,Lab report 4,urgent,assignment,long,rose,0,0,2026-09-15T05:15:00.000Z,2026-09-15T06:33:00.000Z,2026-09-15T06:03:00.000Z,true,2026-09-17T11:28:07.000Z,true,2,90
+syn0212,Email the TA,urgent,class,short,rose,0,0,2026-09-15T15:06:00.000Z,2026-09-15T23:26:42.000Z,2026-09-15T23:26:42.000Z,true,2026-09-15T16:06:51.000Z,true,0,0
+syn0097,Plan the weekend,normal,personal,long,lime,2,2,2026-09-15T16:50:00.000Z,2026-09-16T01:33:46.000Z,2026-09-16T01:33:46.000Z,true,2026-09-17T09:45:18.000Z,true,0,0
+syn0139,Reading response 8,normal,assignment,deep,lilac,0,0,2026-09-15T17:17:00.000Z,2026-09-18T05:18:47.000Z,2026-09-18T04:18:47.000Z,true,2026-09-20T00:44:31.000Z,true,4,140
+syn0034,Reading response 1,high,assignment,long,tangerine,0,0,2026-09-15T17:37:00.000Z,2026-09-16T10:41:10.000Z,2026-09-16T10:41:10.000Z,true,2026-09-16T05:57:17.000Z,false,0,0
+syn0240,Essay draft,soft,assignment,short,lime,0,0,2026-09-15T18:33:00.000Z,2026-09-15T22:31:17.000Z,2026-09-15T22:31:17.000Z,true,2026-09-16T01:43:37.000Z,true,0,0
+syn0261,Groceries,high,errand,long,lilac,0,0,2026-09-16T00:28:00.000Z,2026-09-17T05:15:46.000Z,2026-09-17T05:15:46.000Z,true,2026-09-17T05:03:34.000Z,true,0,125
+syn0189,Clean the project dataset,soft,project,short,lime,2,0,2026-09-16T00:34:00.000Z,2026-09-16T14:34:46.000Z,2026-09-16T14:34:46.000Z,false,,false,0,5
+syn0113,Essay draft,normal,assignment,short,canary,0,0,2026-09-16T00:48:00.000Z,2026-09-16T03:43:11.000Z,2026-09-16T02:58:11.000Z,true,2026-09-17T10:15:01.000Z,true,3,0
+syn0155,Problem set 3,normal,assignment,long,lilac,0,0,2026-09-16T03:07:00.000Z,,,true,2026-09-16T08:53:06.000Z,true,0,50
+syn0133,Email the TA,normal,class,tiny,aqua,0,0,2026-09-16T14:12:00.000Z,2026-09-16T14:27:00.000Z,2026-09-16T14:27:00.000Z,true,2026-09-16T15:26:59.000Z,true,0,0
+syn0313,Write project proposal,urgent,project,long,canary,0,0,2026-09-16T15:21:00.000Z,,,true,2026-09-27T15:06:52.000Z,false,0,75
+syn0209,Prep for shift,normal,work,long,lime,4,4,2026-09-16T16:23:00.000Z,2026-09-21T04:02:14.000Z,2026-09-21T04:02:14.000Z,true,2026-09-16T21:27:47.000Z,true,0,90
+syn0006,Watch lecture 5 recording,normal,class,deep,aqua,5,5,2026-09-16T16:53:00.000Z,,,true,2026-09-18T01:45:55.000Z,true,0,0
+syn0231,Prep for shift,normal,work,deep,canary,2,2,2026-09-16T18:15:00.000Z,2026-09-17T17:40:04.000Z,2026-09-17T17:40:04.000Z,true,2026-09-17T21:46:53.000Z,false,0,115
+syn0293,Practice midterm,normal,exam,long,lime,4,4,2026-09-16T20:23:00.000Z,2026-09-16T21:36:24.000Z,2026-09-16T21:21:24.000Z,true,2026-09-18T03:01:52.000Z,true,1,0
+syn0004,Book a doctor's appointment,normal,health,deep,lilac,0,0,2026-09-16T21:48:00.000Z,2026-09-17T11:00:19.000Z,2026-09-17T10:00:19.000Z,true,2026-09-23T06:14:36.000Z,true,4,0
+syn0211,Prep for shift,normal,work,short,rose,0,0,2026-09-16T23:05:00.000Z,2026-09-17T07:15:56.000Z,2026-09-17T07:15:56.000Z,true,2026-09-17T04:45:53.000Z,true,0,0
+syn0179,Reading response 6,normal,assignment,short,lilac,0,0,2026-09-17T00:11:00.000Z,2026-09-17T07:46:05.000Z,2026-09-17T07:46:05.000Z,true,2026-09-17T06:29:53.000Z,false,0,5
+syn0061,Reply to manager,soft,work,short,aqua,0,0,2026-09-17T00:16:00.000Z,2026-09-17T06:21:39.000Z,2026-09-17T05:51:39.000Z,true,2026-09-17T06:36:33.000Z,true,2,5
+syn0073,Problem set 4,normal,assignment,short,tangerine,0,0,2026-09-17T00:34:00.000Z,2026-09-17T17:06:22.000Z,2026-09-17T17:06:22.000Z,true,2026-09-17T02:29:59.000Z,true,0,0
+syn0246,Make a formula sheet,soft,exam,deep,lilac,2,2,2026-09-17T01:15:00.000Z,2026-09-17T23:36:15.000Z,2026-09-17T23:06:15.000Z,true,2026-09-20T09:35:51.000Z,false,2,0
+syn0148,Email the TA,normal,class,deep,lime,4,4,2026-09-17T02:46:00.000Z,2026-09-18T19:50:15.000Z,2026-09-18T19:50:15.000Z,true,2026-09-20T08:13:45.000Z,true,0,75
+syn0094,Practice midterm,normal,exam,short,rose,2,2,2026-09-17T04:01:00.000Z,2026-09-17T19:02:18.000Z,2026-09-17T19:02:18.000Z,true,2026-09-17T07:15:44.000Z,true,0,0
+syn0060,Reading response 2,urgent,assignment,short,lime,0,0,2026-09-17T20:54:00.000Z,2026-09-18T09:41:37.000Z,2026-09-18T09:26:37.000Z,true,2026-09-18T09:12:47.000Z,true,1,0
+syn0239,Book a haircut,urgent,personal,short,lime,4,4,2026-09-17T22:30:00.000Z,2026-09-18T03:48:12.000Z,2026-09-18T03:48:12.000Z,true,2026-09-18T03:59:42.000Z,true,0,5
+syn0068,Email the TA,normal,class,long,canary,0,0,2026-09-18T00:09:00.000Z,2026-09-21T07:45:20.000Z,2026-09-21T07:30:20.000Z,true,2026-09-18T16:33:28.000Z,true,1,40
+syn0308,Plan the weekend,high,personal,long,lilac,0,0,2026-09-18T00:56:00.000Z,2026-09-18T01:45:11.000Z,2026-09-18T01:45:11.000Z,true,2026-09-19T15:48:54.000Z,false,0,0
+syn0287,Reply to manager,normal,work,long,canary,5,5,2026-09-18T01:52:00.000Z,2026-09-19T09:47:57.000Z,2026-09-19T09:47:57.000Z,true,2026-09-18T21:49:23.000Z,false,0,15
+syn0054,Write project proposal,urgent,project,long,rose,5,5,2026-09-18T02:54:00.000Z,2026-09-18T09:50:01.000Z,2026-09-18T09:50:01.000Z,true,2026-09-19T21:11:15.000Z,true,0,55
+syn0170,Reading response 8,high,assignment,deep,rose,4,4,2026-09-18T04:02:00.000Z,2026-09-20T20:11:57.000Z,2026-09-20T19:56:57.000Z,true,2026-09-20T22:36:59.000Z,true,1,15
+syn0315,Problem set 4,normal,assignment,long,canary,3,3,2026-09-18T15:40:00.000Z,2026-09-18T18:05:52.000Z,2026-09-18T18:05:52.000Z,true,2026-09-22T09:05:03.000Z,true,0,90
+syn0274,Book a haircut,high,personal,short,lime,0,0,2026-09-18T16:50:00.000Z,2026-09-19T03:38:38.000Z,2026-09-19T03:38:38.000Z,true,2026-09-19T03:11:12.000Z,true,0,0
+syn0031,Book a haircut,normal,personal,deep,rose,4,4,2026-09-18T18:02:00.000Z,2026-09-21T21:06:53.000Z,2026-09-21T21:06:53.000Z,true,2026-09-19T04:20:03.000Z,true,0,15
+syn0120,Book a haircut,high,personal,tiny,tangerine,0,0,2026-09-18T18:32:00.000Z,,,true,2026-09-18T18:57:16.000Z,true,0,0
+syn0208,Read chapter 7,normal,class,deep,lilac,5,5,2026-09-18T19:43:00.000Z,2026-09-23T17:43:57.000Z,2026-09-23T17:43:57.000Z,true,2026-09-22T07:19:20.000Z,true,0,50
+syn0071,Review lectures 5-7,soft,exam,long,lilac,5,3,2026-09-19T00:02:00.000Z,,,false,,false,0,75
+syn0245,Book a doctor's appointment,high,health,short,rose,0,0,2026-09-19T00:19:00.000Z,2026-09-19T14:56:41.000Z,2026-09-19T14:56:41.000Z,true,2026-09-19T06:06:07.000Z,true,0,0
+syn0145,Email the TA,soft,class,short,aqua,0,0,2026-09-19T01:04:00.000Z,2026-09-19T07:46:55.000Z,2026-09-19T07:46:55.000Z,true,2026-09-19T07:20:15.000Z,true,0,0
+syn0005,Reading response 2,normal,assignment,short,lilac,0,0,2026-09-19T02:54:00.000Z,,,true,2026-09-19T12:45:07.000Z,false,0,0
+syn0183,Groceries,soft,errand,short,lime,0,0,2026-09-19T03:05:00.000Z,2026-09-19T04:37:18.000Z,2026-09-19T04:37:18.000Z,true,2026-09-19T05:31:20.000Z,true,0,0
+syn0232,Group project check-in,normal,project,long,lilac,3,3,2026-09-19T04:30:00.000Z,2026-09-20T16:24:48.000Z,2026-09-20T15:24:48.000Z,true,2026-09-29T22:13:54.000Z,false,4,125
+syn0124,Book a doctor's appointment,high,health,long,canary,0,0,2026-09-19T15:28:00.000Z,2026-09-20T01:52:31.000Z,2026-09-20T00:52:31.000Z,true,2026-09-21T11:35:17.000Z,true,4,175
+syn0236,Plan the weekend,normal,personal,tiny,canary,0,0,2026-09-19T18:37:00.000Z,2026-09-19T19:55:54.000Z,2026-09-19T19:55:54.000Z,true,2026-09-19T19:35:53.000Z,true,0,0
+syn0219,Essay draft,soft,assignment,long,rose,0,0,2026-09-19T19:43:00.000Z,2026-09-22T14:18:27.000Z,2026-09-22T13:33:27.000Z,true,2026-09-26T08:13:15.000Z,false,3,115
+syn0253,Prep for shift,normal,work,long,tangerine,4,4,2026-09-20T01:49:00.000Z,2026-09-20T13:59:29.000Z,2026-09-20T13:44:29.000Z,true,2026-09-20T12:49:27.000Z,true,1,0
+syn0151,Lab report 7,normal,assignment,short,lime,2,2,2026-09-20T03:06:00.000Z,2026-09-20T04:42:49.000Z,2026-09-20T04:42:49.000Z,true,2026-09-20T06:56:46.000Z,true,0,5
+syn0172,Review lectures 8-10,normal,exam,long,canary,2,2,2026-09-20T03:21:00.000Z,2026-09-20T14:17:32.000Z,2026-09-20T13:17:32.000Z,true,2026-09-21T15:20:25.000Z,true,4,50
+syn0190,Submit timesheet,normal,work,short,tangerine,5,5,2026-09-20T04:45:00.000Z,2026-09-20T11:00:19.000Z,2026-09-20T10:30:19.000Z,true,2026-09-20T11:39:48.000Z,false,2,5
+syn0024,Lab report 4,urgent,assignment,short,tangerine,0,0,2026-09-20T16:02:00.000Z,2026-09-20T16:53:47.000Z,2026-09-20T16:53:47.000Z,true,2026-09-20T20:24:12.000Z,false,0,0
+syn0250,Email the TA,normal,class,deep,rose,4,4,2026-09-20T21:09:00.000Z,2026-09-21T01:26:37.000Z,2026-09-21T00:56:37.000Z,true,2026-09-22T20:50:31.000Z,true,2,0
+syn0030,Book a haircut,soft,personal,long,aqua,5,5,2026-09-20T21:27:00.000Z,2026-09-21T17:05:41.000Z,2026-09-21T17:05:41.000Z,true,2026-09-22T13:59:42.000Z,true,0,0
+syn0007,Email the TA,normal,class,long,canary,2,2,2026-09-21T00:02:00.000Z,2026-09-24T06:39:23.000Z,2026-09-24T06:39:23.000Z,true,2026-09-21T16:06:51.000Z,true,0,0
+syn0207,Pick up a parcel,soft,errand,long,lime,2,2,2026-09-21T02:59:00.000Z,2026-09-23T10:23:05.000Z,2026-09-23T10:23:05.000Z,true,2026-09-25T00:25:16.000Z,true,0,90
+syn0053,Review lectures 8-10,normal,exam,long,aqua,0,0,2026-09-21T14:42:00.000Z,2026-09-22T13:59:01.000Z,2026-09-22T13:29:01.000Z,true,2026-09-22T18:44:51.000Z,true,2,65
+syn0010,Lab report 7,urgent,assignment,long,tangerine,0,0,2026-09-21T17:26:00.000Z,2026-09-23T22:10:35.000Z,2026-09-23T21:55:35.000Z,true,2026-09-22T11:18:55.000Z,true,1,15
+syn0285,Essay draft,normal,assignment,long,rose,0,0,2026-09-21T17:54:00.000Z,2026-09-23T11:02:48.000Z,2026-09-23T11:02:48.000Z,true,2026-09-29T05:02:17.000Z,false,0,25
+syn0178,Book a haircut,normal,personal,long,rose,0,0,2026-09-21T22:54:00.000Z,2026-09-25T10:05:52.000Z,2026-09-25T09:35:52.000Z,true,2026-09-23T01:22:23.000Z,false,2,100
+syn0080,Essay draft,normal,assignment,deep,tangerine,2,2,2026-09-22T03:49:00.000Z,2026-09-25T10:02:08.000Z,2026-09-25T10:02:08.000Z,true,2026-09-25T11:50:20.000Z,true,0,0
+syn0214,Read chapter 9,urgent,class,short,rose,0,0,2026-09-22T04:55:00.000Z,2026-09-22T07:10:27.000Z,2026-09-22T07:10:27.000Z,true,2026-09-22T08:35:55.000Z,true,0,0
+syn0162,Problem set 2,soft,assignment,short,lime,0,0,2026-09-22T13:40:00.000Z,2026-09-22T19:14:10.000Z,2026-09-22T18:59:10.000Z,true,2026-09-22T18:52:40.000Z,true,1,0
+syn0105,Read chapter 2,normal,class,short,aqua,0,0,2026-09-22T15:18:00.000Z,,,true,2026-09-22T20:31:49.000Z,false,0,0
+syn0249,Call home,high,personal,deep,aqua,0,0,2026-09-22T16:21:00.000Z,,,true,2026-09-23T11:05:50.000Z,false,0,0
+syn0318,Call home,soft,personal,deep,lilac,2,2,2026-09-22T16:34:00.000Z,2026-09-25T08:12:03.000Z,2026-09-25T08:12:03.000Z,true,2026-09-23T13:49:27.000Z,true,0,0
+syn0256,Problem set 7,high,assignment,deep,lilac,0,0,2026-09-22T17:01:00.000Z,2026-09-29T08:46:54.000Z,2026-09-29T08:16:54.000Z,true,2026-09-22T23:23:23.000Z,false,2,115
+syn0026,Essay draft,high,assignment,short,aqua,0,0,2026-09-22T23:08:00.000Z,2026-09-23T02:00:47.000Z,2026-09-23T02:00:47.000Z,true,2026-09-23T11:21:33.000Z,true,0,0
+syn0032,Review lectures 5-7,high,exam,short,rose,0,0,2026-09-23T00:45:00.000Z,2026-09-23T05:39:51.000Z,2026-09-23T05:39:51.000Z,true,2026-09-23T05:11:39.000Z,true,0,0
+syn0292,Gym session,normal,health,short,aqua,0,0,2026-09-23T00:57:00.000Z,2026-09-23T18:50:01.000Z,2026-09-23T18:50:01.000Z,true,2026-09-23T04:51:56.000Z,true,0,25
+syn0103,Problem set 1,urgent,assignment,short,tangerine,3,3,2026-09-23T01:26:00.000Z,2026-09-23T05:30:41.000Z,2026-09-23T05:30:41.000Z,true,2026-09-23T17:46:16.000Z,false,0,25
+syn0085,Watch lecture 3 recording,soft,class,long,tangerine,0,0,2026-09-23T01:37:00.000Z,2026-09-23T05:40:43.000Z,2026-09-23T04:55:43.000Z,true,2026-09-23T10:06:19.000Z,true,3,25
+syn0092,Review lectures 5-7,normal,exam,short,lime,4,4,2026-09-23T03:13:00.000Z,,,true,2026-09-23T09:43:21.000Z,true,0,25
+syn0301,Plan the weekend,normal,personal,deep,rose,2,1,2026-09-23T03:58:00.000Z,2026-09-23T20:13:29.000Z,2026-09-23T19:43:29.000Z,false,,false,2,30
+syn0309,Read chapter 6,high,class,short,rose,0,0,2026-09-23T04:17:00.000Z,,,true,2026-09-23T06:35:10.000Z,false,2,15
+syn0132,Read chapter 6,high,class,short,canary,0,0,2026-09-23T04:36:00.000Z,2026-09-23T10:13:48.000Z,2026-09-23T10:13:48.000Z,true,2026-09-23T08:29:13.000Z,false,0,0
+syn0127,Book a doctor's appointment,urgent,health,short,lime,0,0,2026-09-23T04:51:00.000Z,2026-09-23T14:00:09.000Z,2026-09-23T14:00:09.000Z,true,2026-09-23T16:16:33.000Z,true,0,5
+syn0149,Group project check-in,urgent,project,short,lilac,0,0,2026-09-23T06:35:00.000Z,2026-09-23T13:18:12.000Z,2026-09-23T13:18:12.000Z,true,2026-09-23T18:51:00.000Z,false,0,0
+syn0012,Laundry,urgent,errand,deep,lime,0,0,2026-09-23T15:45:00.000Z,2026-09-24T02:22:42.000Z,2026-09-24T01:37:42.000Z,true,2026-09-27T13:46:36.000Z,false,3,50
+syn0137,Pick up a parcel,high,errand,tiny,tangerine,0,0,2026-09-23T18:25:00.000Z,2026-09-23T21:35:28.000Z,2026-09-23T21:35:28.000Z,true,2026-09-23T19:59:24.000Z,true,0,0
+syn0314,Laundry,normal,errand,long,canary,5,5,2026-09-23T19:12:00.000Z,,,true,2026-09-26T11:56:53.000Z,false,0,50
+syn0262,Group project check-in,normal,project,deep,lilac,3,3,2026-09-23T21:55:00.000Z,2026-09-25T02:55:44.000Z,2026-09-25T02:55:44.000Z,true,2026-09-26T04:35:40.000Z,false,0,0
+syn0059,Reading response 2,urgent,assignment,long,tangerine,4,4,2026-09-23T21:56:00.000Z,2026-09-23T23:34:48.000Z,2026-09-23T23:34:48.000Z,true,2026-09-24T11:31:55.000Z,true,0,75
+syn0136,Lab report 5,high,assignment,short,canary,4,4,2026-09-23T22:00:00.000Z,2026-09-23T23:01:18.000Z,2026-09-23T23:01:18.000Z,true,2026-09-24T04:11:16.000Z,true,0,15
+syn0271,Problem set 7,urgent,assignment,deep,canary,5,5,2026-09-24T00:58:00.000Z,2026-09-29T23:31:27.000Z,2026-09-29T23:31:27.000Z,true,2026-09-24T22:01:42.000Z,true,0,65
+syn0042,Email the TA,urgent,class,deep,lilac,5,5,2026-09-24T01:18:00.000Z,2026-09-25T09:26:55.000Z,2026-09-25T09:26:55.000Z,true,2026-09-25T00:12:45.000Z,false,0,115
+syn0107,Essay draft,soft,assignment,tiny,aqua,3,3,2026-09-24T06:42:00.000Z,2026-09-24T10:06:02.000Z,2026-09-24T09:51:02.000Z,true,2026-09-24T06:58:37.000Z,true,1,0
+syn0043,Reply to manager,high,work,short,tangerine,0,0,2026-09-24T13:29:00.000Z,2026-09-24T14:06:15.000Z,2026-09-24T14:06:15.000Z,true,2026-09-24T18:17:05.000Z,true,0,0
+syn0310,Problem set 6,soft,assignment,deep,lilac,0,0,2026-09-24T15:01:00.000Z,,,true,2026-09-27T04:57:02.000Z,false,2,0
+syn0220,Group project check-in,soft,project,tiny,canary,0,0,2026-09-24T15:39:00.000Z,2026-09-24T16:06:52.000Z,2026-09-24T16:06:52.000Z,true,2026-09-24T15:52:50.000Z,true,0,0
+syn0174,Book a haircut,high,personal,tiny,lilac,0,0,2026-09-24T16:54:00.000Z,2026-09-24T19:41:12.000Z,2026-09-24T19:41:12.000Z,true,2026-09-24T18:14:27.000Z,false,0,0
+syn0033,Read chapter 6,normal,class,short,aqua,0,0,2026-09-24T18:22:00.000Z,2026-09-24T20:05:36.000Z,2026-09-24T20:05:36.000Z,true,2026-09-24T22:04:37.000Z,true,0,0
+syn0052,Problem set 6,normal,assignment,long,canary,0,0,2026-09-24T22:32:00.000Z,2026-09-25T05:03:23.000Z,2026-09-25T05:03:23.000Z,true,2026-09-26T20:50:44.000Z,true,0,40
+syn0173,Lab report 6,normal,assignment,short,lime,0,0,2026-09-24T23:25:00.000Z,2026-09-25T02:58:49.000Z,2026-09-25T02:43:49.000Z,true,2026-09-25T04:02:36.000Z,true,1,15
+syn0195,Reading response 3,urgent,assignment,tiny,canary,2,2,2026-09-25T01:37:00.000Z,2026-09-25T02:48:14.000Z,2026-09-25T02:48:14.000Z,true,2026-09-25T02:33:04.000Z,false,0,0
+syn0134,Reading response 4,normal,assignment,tiny,aqua,0,0,2026-09-25T02:35:00.000Z,2026-09-25T04:29:23.000Z,2026-09-25T04:14:23.000Z,true,2026-09-25T03:02:18.000Z,false,1,0
+syn0027,Problem set 6,normal,assignment,long,aqua,2,2,2026-09-25T02:58:00.000Z,2026-09-25T10:21:56.000Z,2026-09-25T10:21:56.000Z,true,2026-09-25T16:28:49.000Z,true,0,125
+syn0258,Reply to manager,soft,work,long,lime,0,0,2026-09-25T03:06:00.000Z,,,true,2026-09-25T05:31:13.000Z,true,0,15
+syn0102,Lab report 7,normal,assignment,tiny,canary,0,0,2026-09-25T03:15:00.000Z,2026-09-25T05:17:40.000Z,2026-09-25T04:32:40.000Z,true,2026-09-25T04:06:41.000Z,true,3,0
+syn0317,Laundry,urgent,errand,tiny,aqua,4,4,2026-09-25T06:03:00.000Z,2026-09-25T06:29:09.000Z,2026-09-25T06:29:09.000Z,true,2026-09-25T06:11:08.000Z,true,0,0
+syn0095,Lab report 9,normal,assignment,tiny,tangerine,0,0,2026-09-25T14:17:00.000Z,2026-09-25T14:59:49.000Z,2026-09-25T14:59:49.000Z,false,,false,0,0
+syn0316,Write project proposal,soft,project,short,lime,0,0,2026-09-25T16:17:00.000Z,,,true,2026-09-25T17:43:06.000Z,true,0,0
+syn0128,Prep for shift,urgent,work,long,tangerine,0,0,2026-09-25T17:09:00.000Z,,,true,2026-09-27T13:56:55.000Z,false,4,0
+syn0197,Call home,high,personal,short,lime,0,0,2026-09-25T19:46:00.000Z,2026-09-25T20:44:20.000Z,2026-09-25T20:44:20.000Z,true,2026-09-26T09:49:33.000Z,true,0,25
+syn0163,Plan the weekend,normal,personal,short,aqua,0,0,2026-09-25T23:33:00.000Z,2026-09-26T10:57:18.000Z,2026-09-26T10:27:18.000Z,false,,false,2,15
+syn0217,Email the TA,urgent,class,tiny,canary,0,0,2026-09-26T00:19:00.000Z,2026-09-26T00:34:00.000Z,2026-09-26T00:34:00.000Z,true,2026-09-26T01:27:40.000Z,true,0,0
+syn0288,Call home,high,personal,long,tangerine,0,0,2026-09-26T02:59:00.000Z,2026-09-26T15:10:18.000Z,2026-09-26T14:40:18.000Z,true,2026-09-28T02:47:20.000Z,false,2,15
+syn0077,Group project check-in,normal,project,short,lime,4,4,2026-09-26T03:16:00.000Z,,,true,2026-09-26T08:04:58.000Z,true,0,0
+syn0223,Essay draft,normal,assignment,short,rose,0,0,2026-09-26T05:31:00.000Z,2026-09-26T10:38:23.000Z,2026-09-26T10:38:23.000Z,true,2026-09-26T11:06:17.000Z,true,0,0
+syn0099,Watch lecture 6 recording,high,class,short,tangerine,0,0,2026-09-26T12:23:00.000Z,,,true,2026-09-27T01:01:04.000Z,true,0,5
+syn0041,Write project proposal,urgent,project,deep,canary,0,0,2026-09-26T15:48:00.000Z,2026-09-27T00:52:00.000Z,2026-09-27T00:52:00.000Z,true,2026-09-27T16:42:10.000Z,false,0,0
+syn0167,Submit timesheet,normal,work,short,lime,0,0,2026-09-26T16:40:00.000Z,2026-09-26T19:40:21.000Z,2026-09-26T19:40:21.000Z,true,2026-09-27T15:11:24.000Z,false,0,5
+syn0079,Book a haircut,soft,personal,short,lilac,0,0,2026-09-26T17:05:00.000Z,,,true,2026-09-27T01:11:55.000Z,true,1,25
+syn0135,Review lectures 9-11,high,exam,tiny,lime,0,0,2026-09-26T20:01:00.000Z,,,true,2026-09-26T20:17:19.000Z,false,0,0
+syn0140,Email the TA,soft,class,short,aqua,0,0,2026-09-26T20:06:00.000Z,2026-09-26T21:20:52.000Z,2026-09-26T21:20:52.000Z,true,2026-09-26T22:57:41.000Z,true,0,25
+syn0196,Problem set 9,high,assignment,tiny,lime,0,0,2026-09-26T21:03:00.000Z,2026-09-26T21:44:39.000Z,2026-09-26T21:44:39.000Z,true,2026-09-26T21:10:36.000Z,false,0,0
+syn0081,Review lectures 1-3,normal,exam,long,tangerine,0,0,2026-09-26T22:04:00.000Z,2026-09-26T23:49:55.000Z,2026-09-26T23:19:55.000Z,false,,false,2,25
+syn0096,Essay draft,high,assignment,short,lilac,0,0,2026-09-27T00:52:00.000Z,,,true,2026-09-27T08:34:54.000Z,false,0,5
+syn0306,Book a doctor's appointment,high,health,short,tangerine,0,0,2026-09-27T01:24:00.000Z,2026-09-27T12:16:23.000Z,2026-09-27T12:16:23.000Z,true,2026-09-27T20:01:37.000Z,false,0,0
+syn0088,Lab report 3,high,assignment,long,lilac,0,0,2026-09-27T04:25:00.000Z,,,true,2026-09-29T22:04:00.000Z,false,0,50
+syn0260,Problem set 6,soft,assignment,short,tangerine,0,0,2026-09-27T14:44:00.000Z,2026-09-27T15:29:00.000Z,2026-09-27T14:59:00.000Z,true,2026-09-28T14:39:04.000Z,false,2,5
+syn0265,Lab report 8,normal,assignment,short,aqua,4,4,2026-09-27T15:46:00.000Z,2026-09-27T20:01:28.000Z,2026-09-27T20:01:28.000Z,true,2026-09-27T18:11:49.000Z,false,0,0
+syn0215,Review lectures 4-6,normal,exam,tiny,rose,0,0,2026-09-27T16:27:00.000Z,2026-09-27T17:05:24.000Z,2026-09-27T17:05:24.000Z,true,2026-09-27T16:38:05.000Z,false,0,0
+syn0226,Groceries,urgent,errand,tiny,rose,0,0,2026-09-27T16:32:00.000Z,2026-09-27T16:47:00.000Z,2026-09-27T16:47:00.000Z,true,2026-09-27T18:41:12.000Z,false,0,0
+syn0019,Lab report 3,high,assignment,short,canary,0,0,2026-09-27T19:14:00.000Z,,,true,2026-09-27T22:42:03.000Z,false,0,5
+syn0072,Meal prep,urgent,health,tiny,lime,0,0,2026-09-27T20:56:00.000Z,2026-09-27T21:18:42.000Z,2026-09-27T21:18:42.000Z,true,2026-09-27T21:12:29.000Z,false,0,0
+syn0279,Problem set 2,normal,assignment,tiny,rose,0,0,2026-09-28T00:05:00.000Z,2026-09-28T00:20:30.000Z,2026-09-28T00:20:30.000Z,true,2026-09-28T01:43:06.000Z,false,0,0
+syn0157,Lab report 9,high,assignment,deep,rose,0,0,2026-09-28T00:32:00.000Z,2026-09-29T14:29:41.000Z,2026-09-29T13:29:41.000Z,false,,false,4,75
+syn0013,Lab report 8,high,assignment,short,aqua,0,0,2026-09-28T02:18:00.000Z,2026-09-28T11:51:20.000Z,2026-09-28T11:51:20.000Z,true,2026-09-28T10:22:26.000Z,false,0,5
+syn0193,Reading response 6,urgent,assignment,long,lime,0,0,2026-09-28T03:03:00.000Z,2026-09-29T01:47:24.000Z,2026-09-29T00:32:24.000Z,true,2026-09-30T11:38:42.000Z,false,5,0
+syn0025,Clean the project dataset,soft,project,short,lime,0,0,2026-09-28T03:56:00.000Z,2026-09-28T04:26:00.000Z,2026-09-28T04:11:00.000Z,true,2026-09-29T01:31:12.000Z,false,1,0
+syn0055,Lab report 6,normal,assignment,long,rose,0,0,2026-09-28T04:14:00.000Z,2026-09-28T22:56:16.000Z,2026-09-28T22:41:16.000Z,true,2026-09-29T19:03:16.000Z,false,1,125
+syn0108,Essay draft,high,assignment,short,aqua,2,2,2026-09-28T07:27:00.000Z,,,true,2026-09-28T15:40:24.000Z,false,1,25
+syn0158,Laundry,soft,errand,short,tangerine,3,3,2026-09-28T16:30:00.000Z,2026-09-28T20:05:30.000Z,2026-09-28T20:05:30.000Z,true,2026-09-29T14:19:54.000Z,false,0,0
+syn0191,Reading response 3,high,assignment,long,canary,0,0,2026-09-28T16:42:00.000Z,2026-09-29T07:53:08.000Z,2026-09-29T07:53:08.000Z,true,2026-09-29T13:33:28.000Z,false,0,0
+syn0153,Groceries,high,errand,short,rose,3,3,2026-09-28T16:59:00.000Z,2026-09-29T05:43:43.000Z,2026-09-29T05:43:43.000Z,true,2026-09-29T12:01:10.000Z,false,0,0
+syn0141,Reply to manager,high,work,deep,lilac,0,0,2026-09-28T17:25:00.000Z,2026-09-29T03:55:00.000Z,2026-09-29T03:10:00.000Z,false,,false,3,0
+syn0028,Lab report 7,normal,assignment,short,lime,3,3,2026-09-28T18:53:00.000Z,2026-09-28T19:38:08.000Z,2026-09-28T19:38:08.000Z,true,2026-09-28T22:01:23.000Z,false,0,0
+syn0074,Pick up a parcel,normal,errand,short,canary,0,0,2026-09-28T19:55:00.000Z,2026-09-28T23:40:39.000Z,2026-09-28T23:40:39.000Z,true,2026-09-29T01:16:10.000Z,false,0,0
+syn0022,Review lectures 5-7,normal,exam,short,lilac,5,5,2026-09-28T20:50:00.000Z,2026-09-29T04:11:54.000Z,2026-09-29T02:56:54.000Z,true,2026-09-29T13:14:02.000Z,false,5,0
+syn0180,Pick up a parcel,normal,errand,short,lilac,0,0,2026-09-28T22:14:00.000Z,2026-09-28T22:31:51.000Z,2026-09-28T22:31:51.000Z,true,2026-09-28T22:52:11.000Z,false,0,5
+syn0205,Review lectures 5-7,soft,exam,short,canary,4,4,2026-09-28T22:39:00.000Z,2026-09-29T00:31:13.000Z,2026-09-29T00:16:13.000Z,true,2026-09-29T07:47:05.000Z,false,1,0
+syn0300,Submit timesheet,high,work,deep,aqua,5,5,2026-09-29T00:51:00.000Z,2026-09-30T19:26:41.000Z,2026-09-30T19:26:41.000Z,true,2026-09-29T14:01:06.000Z,false,0,115
+syn0266,Reading response 1,high,assignment,short,tangerine,0,0,2026-09-29T01:18:00.000Z,2026-09-29T11:08:07.000Z,2026-09-29T11:08:07.000Z,true,2026-09-29T09:20:07.000Z,false,0,15
+syn0087,Book a haircut,urgent,personal,short,lilac,0,0,2026-09-29T02:09:00.000Z,2026-09-29T03:02:30.000Z,2026-09-29T03:02:30.000Z,true,2026-09-29T22:27:15.000Z,false,0,0
+syn0117,Group project check-in,normal,project,short,rose,0,0,2026-09-29T02:17:00.000Z,2026-09-29T17:37:41.000Z,2026-09-29T16:52:41.000Z,true,2026-09-29T06:45:12.000Z,false,3,15
+syn0291,Lab report 6,soft,assignment,deep,canary,0,0,2026-09-29T13:00:00.000Z,2026-10-03T18:03:08.000Z,2026-10-03T17:18:08.000Z,false,,false,3,75
+syn0144,Reading response 3,urgent,assignment,tiny,tangerine,0,0,2026-09-29T15:24:00.000Z,2026-09-29T15:57:23.000Z,2026-09-29T15:57:23.000Z,true,2026-09-29T16:35:01.000Z,false,0,0
+syn0110,Problem set 9,normal,assignment,short,canary,0,0,2026-09-29T15:29:00.000Z,2026-09-30T07:23:35.000Z,2026-09-30T07:23:35.000Z,true,2026-09-29T20:29:52.000Z,false,0,0
+syn0169,Plan the weekend,soft,personal,tiny,tangerine,0,0,2026-09-29T17:31:00.000Z,2026-09-29T18:33:52.000Z,2026-09-29T18:18:52.000Z,true,2026-09-29T18:59:14.000Z,false,1,0
+syn0222,Book a doctor's appointment,high,health,deep,lime,0,0,2026-09-29T19:45:00.000Z,2026-10-02T01:32:41.000Z,2026-10-02T01:32:41.000Z,true,2026-09-29T21:45:35.000Z,false,0,50
+syn0123,Make a formula sheet,high,exam,tiny,rose,0,0,2026-09-29T21:32:00.000Z,2026-09-29T21:47:00.000Z,2026-09-29T21:47:00.000Z,true,2026-09-29T22:40:28.000Z,false,0,0
+syn0225,Problem set 8,normal,assignment,deep,lime,4,4,2026-09-29T21:54:00.000Z,2026-10-02T14:35:00.000Z,2026-10-02T14:35:00.000Z,true,2026-10-02T04:23:27.000Z,false,0,90
+syn0289,Practice midterm,normal,exam,deep,rose,0,0,2026-09-29T22:53:00.000Z,2026-10-02T16:57:21.000Z,2026-10-02T15:57:21.000Z,false,,false,4,50
+syn0152,Essay draft,soft,assignment,long,tangerine,5,5,2026-09-29T23:52:00.000Z,2026-09-30T01:42:26.000Z,2026-09-30T01:42:26.000Z,true,2026-10-01T05:57:09.000Z,false,0,40
+syn0101,Reading response 7,high,assignment,short,tangerine,0,0,2026-09-30T02:08:00.000Z,2026-09-30T05:05:10.000Z,2026-09-30T05:05:10.000Z,true,2026-09-30T04:31:32.000Z,false,0,0
+syn0251,Call home,urgent,personal,long,aqua,2,2,2026-09-30T02:19:00.000Z,2026-09-30T07:55:16.000Z,2026-09-30T07:55:16.000Z,true,2026-09-30T21:05:53.000Z,false,0,0
+syn0294,Pick up a parcel,normal,errand,long,lilac,3,3,2026-09-30T02:36:00.000Z,2026-09-30T06:01:41.000Z,2026-09-30T06:01:41.000Z,true,2026-09-30T19:20:09.000Z,false,0,0
+syn0216,Problem set 2,urgent,assignment,long,lilac,0,0,2026-09-30T03:44:00.000Z,,,true,2026-10-02T00:18:53.000Z,false,0,0
+syn0147,Write project proposal,soft,project,deep,lime,5,5,2026-09-30T16:00:00.000Z,,,true,2026-10-03T01:10:26.000Z,false,2,0
+syn0303,Reading response 7,soft,assignment,tiny,canary,0,0,2026-09-30T16:05:00.000Z,2026-09-30T16:36:30.000Z,2026-09-30T16:36:30.000Z,true,2026-09-30T16:22:23.000Z,false,0,0
+syn0312,Submit timesheet,soft,work,long,aqua,5,5,2026-09-30T16:43:00.000Z,,,true,2026-10-01T06:01:31.000Z,false,0,105
+syn0160,Review lectures 2-4,high,exam,tiny,tangerine,0,0,2026-09-30T19:07:00.000Z,2026-09-30T21:20:06.000Z,2026-09-30T21:20:06.000Z,true,2026-09-30T19:34:34.000Z,false,0,0
+syn0270,Review lectures 6-8,high,exam,tiny,aqua,2,2,2026-09-30T21:21:00.000Z,2026-09-30T22:37:06.000Z,2026-09-30T22:37:06.000Z,true,2026-10-01T00:14:39.000Z,false,0,0
+syn0036,Essay draft,high,assignment,short,lilac,0,0,2026-09-30T21:32:00.000Z,2026-10-01T04:20:30.000Z,2026-10-01T04:20:30.000Z,true,2026-10-01T01:20:48.000Z,false,0,0
+syn0257,Meal prep,high,health,deep,lime,5,5,2026-09-30T23:09:00.000Z,2026-10-01T10:38:02.000Z,2026-10-01T10:38:02.000Z,true,2026-10-03T13:33:18.000Z,false,0,0
+syn0268,Call home,normal,personal,long,rose,5,5,2026-10-01T00:01:00.000Z,2026-10-01T23:22:30.000Z,2026-10-01T23:22:30.000Z,true,2026-10-01T17:10:24.000Z,false,0,0
+syn0159,Meal prep,high,health,deep,lilac,0,0,2026-10-01T00:12:00.000Z,2026-10-01T06:41:28.000Z,2026-10-01T05:56:28.000Z,true,2026-10-02T01:32:39.000Z,false,3,15
+syn0058,Watch lecture 4 recording,high,class,deep,canary,5,5,2026-10-01T02:06:00.000Z,2026-10-02T05:32:33.000Z,2026-10-02T05:32:33.000Z,true,2026-10-01T11:11:40.000Z,false,0,15
+syn0014,Write project proposal,high,project,long,tangerine,0,0,2026-10-01T02:11:00.000Z,2026-10-01T10:49:59.000Z,2026-10-01T10:04:59.000Z,true,2026-10-01T12:30:24.000Z,false,3,0
+syn0001,Reading response 4,normal,assignment,short,canary,0,0,2026-10-01T03:56:00.000Z,2026-10-01T12:42:08.000Z,2026-10-01T12:42:08.000Z,true,2026-10-01T08:58:19.000Z,false,0,0
+syn0224,Make a formula sheet,normal,exam,short,rose,0,0,2026-10-01T04:08:00.000Z,2026-10-01T12:34:02.000Z,2026-10-01T12:19:02.000Z,true,2026-10-01T08:36:50.000Z,false,1,0
+syn0218,Plan the weekend,soft,personal,deep,lime,3,3,2026-10-01T04:12:00.000Z,2026-10-03T01:43:59.000Z,2026-10-03T01:43:59.000Z,true,2026-10-02T14:16:30.000Z,false,0,65
+syn0049,Clean the project dataset,urgent,project,deep,canary,3,3,2026-10-01T04:41:00.000Z,2026-10-01T05:02:06.000Z,2026-10-01T05:02:06.000Z,true,2026-10-02T10:12:07.000Z,false,0,75
+syn0023,Problem set 5,normal,assignment,tiny,tangerine,0,0,2026-10-01T05:13:00.000Z,,,true,2026-10-01T05:21:17.000Z,false,0,0
+syn0228,Practice midterm,urgent,exam,long,canary,5,5,2026-10-01T05:31:00.000Z,,,true,2026-10-02T05:44:20.000Z,false,0,0
+syn0098,Reading response 3,high,assignment,short,lilac,0,0,2026-10-01T13:45:00.000Z,2026-10-01T16:49:33.000Z,2026-10-01T16:49:33.000Z,true,2026-10-02T12:43:40.000Z,false,0,0
+syn0039,Problem set 9,normal,assignment,short,canary,0,0,2026-10-01T17:45:00.000Z,2026-10-02T01:11:35.000Z,2026-10-02T00:56:35.000Z,false,,false,1,0
+syn0234,Write project proposal,high,project,short,aqua,0,0,2026-10-01T18:23:00.000Z,2026-10-01T19:25:05.000Z,2026-10-01T18:55:05.000Z,true,2026-10-02T11:15:11.000Z,false,2,0
+syn0255,Reading response 4,normal,assignment,short,aqua,2,2,2026-10-01T22:42:00.000Z,2026-10-02T03:20:06.000Z,2026-10-02T02:50:06.000Z,true,2026-10-03T10:55:19.000Z,false,2,15
+syn0002,Review lectures 6-8,urgent,exam,tiny,aqua,0,0,2026-10-02T00:43:00.000Z,,,true,2026-10-02T00:52:04.000Z,false,0,0
+syn0016,Problem set 7,urgent,assignment,short,aqua,3,3,2026-10-02T03:16:00.000Z,2026-10-02T08:40:17.000Z,2026-10-02T08:25:17.000Z,true,2026-10-02T06:55:58.000Z,false,1,0
+syn0129,Problem set 2,soft,assignment,long,tangerine,0,0,2026-10-02T13:30:00.000Z,2026-10-03T03:43:12.000Z,2026-10-03T02:58:12.000Z,false,,false,3,0
+syn0011,Watch lecture 3 recording,normal,class,short,tangerine,0,0,2026-10-02T14:29:00.000Z,2026-10-02T22:25:43.000Z,2026-10-02T21:55:43.000Z,true,2026-10-02T23:15:03.000Z,false,2,25
+syn0176,Reply to manager,urgent,work,short,canary,3,3,2026-10-02T15:21:00.000Z,2026-10-02T23:41:03.000Z,2026-10-02T23:41:03.000Z,true,2026-10-03T01:43:55.000Z,false,0,0
+syn0275,Plan the weekend,normal,personal,short,canary,0,0,2026-10-02T16:13:00.000Z,2026-10-03T14:04:15.000Z,2026-10-03T13:34:15.000Z,true,2026-10-03T05:12:29.000Z,false,2,0
+syn0116,Reading response 1,normal,assignment,deep,lilac,5,5,2026-10-02T16:44:00.000Z,2026-10-07T02:00:36.000Z,2026-10-07T02:00:36.000Z,true,2026-10-03T07:13:00.000Z,false,0,0
+syn0264,Prep for shift,high,work,long,lilac,0,0,2026-10-02T19:19:00.000Z,2026-10-03T16:19:00.000Z,2026-10-03T15:49:00.000Z,false,,false,2,125
+syn0305,Laundry,normal,errand,short,tangerine,0,0,2026-10-02T19:25:00.000Z,2026-10-02T20:48:32.000Z,2026-10-02T20:48:32.000Z,true,2026-10-03T03:32:06.000Z,false,0,0
+syn0017,Group project check-in,normal,project,long,lime,2,2,2026-10-02T19:38:00.000Z,,,true,2026-10-03T03:18:12.000Z,false,0,0
+syn0282,Essay draft,soft,assignment,long,rose,0,0,2026-10-02T20:23:00.000Z,2026-10-03T08:50:23.000Z,2026-10-03T08:05:23.000Z,false,,false,3,65
+syn0091,Read chapter 1,soft,class,long,tangerine,0,0,2026-10-02T20:44:00.000Z,2026-10-03T15:31:58.000Z,2026-10-03T14:46:58.000Z,false,,false,3,50
+syn0284,Clean the project dataset,normal,project,deep,canary,0,0,2026-10-02T22:21:00.000Z,2026-10-03T20:04:56.000Z,2026-10-03T19:04:56.000Z,false,,false,4,50
+syn0111,Essay draft,urgent,assignment,long,lilac,2,0,2026-10-03T02:45:00.000Z,,,false,,false,0,0
+syn0304,Groceries,normal,errand,tiny,aqua,0,0,2026-10-03T03:11:00.000Z,,,true,2026-10-03T04:17:33.000Z,false,3,0
+syn0048,Problem set 9,high,assignment,short,tangerine,0,0,2026-10-03T03:13:00.000Z,2026-10-03T22:31:03.000Z,2026-10-03T22:31:03.000Z,true,2026-10-03T08:30:25.000Z,false,0,0
+syn0280,Write project proposal,normal,project,short,canary,5,5,2026-10-03T06:52:00.000Z,2026-10-03T19:03:30.000Z,2026-10-03T19:03:30.000Z,true,2026-10-03T19:25:51.000Z,false,0,0
+syn0069,Problem set 6,high,assignment,short,aqua,0,0,2026-10-03T13:00:00.000Z,2026-10-03T17:53:48.000Z,2026-10-03T17:38:48.000Z,false,,false,1,0
+syn0244,Submit timesheet,high,work,tiny,canary,0,0,2026-10-03T15:30:00.000Z,2026-10-03T17:09:14.000Z,2026-10-03T17:09:14.000Z,true,2026-10-03T16:09:10.000Z,false,0,0
+syn0078,Group project check-in,normal,project,short,canary,2,2,2026-10-03T16:46:00.000Z,,,true,2026-10-03T19:34:25.000Z,false,0,0
+syn0118,Book a haircut,normal,personal,long,rose,5,0,2026-10-03T17:25:00.000Z,2026-10-04T07:15:29.000Z,2026-10-04T07:15:29.000Z,false,,false,0,0
+syn0044,Problem set 9,normal,assignment,long,tangerine,4,2,2026-10-03T20:30:00.000Z,2026-10-04T15:06:54.000Z,2026-10-04T14:51:54.000Z,false,,false,1,15
+syn0057,Write project proposal,normal,project,long,rose,0,0,2026-10-03T21:51:00.000Z,2026-10-04T11:48:35.000Z,2026-10-04T11:18:35.000Z,false,,false,2,0
+syn0066,Problem set 2,normal,assignment,deep,canary,2,0,2026-10-03T23:29:00.000Z,2026-10-06T08:26:27.000Z,2026-10-06T08:26:27.000Z,false,,false,0,0
+syn0161,Essay draft,high,assignment,short,lime,0,0,2026-10-04T00:16:00.000Z,2026-10-04T10:39:32.000Z,2026-10-04T10:39:32.000Z,false,,false,0,0
+syn0076,Read chapter 4,high,class,deep,rose,0,0,2026-10-04T00:52:00.000Z,2026-10-05T02:06:37.000Z,2026-10-05T01:06:37.000Z,false,,false,4,0
