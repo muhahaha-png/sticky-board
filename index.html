@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Sticky Board</title>
+<meta name="description" content="A sticky-note task board that helps students beat procrastination with priorities, reminders, focus timers and progress insights.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=Instrument+Sans:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&family=Kalam:wght@400;700&display=swap">
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div class="page">
+
+  <!-- ============ HEADER ============ -->
+  <header class="topbar">
+    <div class="brand">
+      <h1>Sticky Board</h1>
+      <p class="tagline">Write it down. Break it down. Stick with it.</p>
+    </div>
+    <div class="top-right">
+      <div class="tally" id="tally" aria-live="polite"></div>
+      <div class="top-actions">
+        <button class="btn ghost" id="soundBtn" type="button">Sounds</button>
+        <button class="btn ghost" id="themeBtn" type="button">Light mode</button>
+      </div>
+    </div>
+  </header>
+  <p class="storage-note" id="storageNote">Loading your notes…</p>
+
+  <!-- ============ FOCUS TIMER (shown while a timer runs) ============ -->
+  <div class="focusbar" id="focusBar" hidden></div>
+
+  <main class="stack">
+
+    <!-- ============ YOUR NEXT MOVE ============ -->
+    <section class="next" id="nextMove" aria-label="Your next move"></section>
+
+    <!-- ============ NEW TASK ============ -->
+    <form class="composer" id="composer" autocomplete="off">
+      <div class="pad paper-bg" id="composerPad">
+        <label class="pad-label" for="newText">New task</label>
+        <textarea id="newText" rows="3" maxlength="500" placeholder="What do you need to do? e.g. Finish problem set 3"></textarea>
+        <label class="pad-label" for="newSteps">Break it down (optional, one small step per line)</label>
+        <textarea id="newSteps" class="steps-input" rows="3" placeholder="Open the notebook&#10;Do questions 1–2&#10;Submit on Canvas"></textarea>
+      </div>
+      <div class="composer-side">
+        <div id="composerFields"></div>
+        <div class="composer-foot">
+          <span class="hint">Ctrl or ⌘ + Enter to stick it</span>
+          <button class="btn primary" type="submit">Stick note</button>
+        </div>
+      </div>
+    </form>
+
+    <!-- ============ TO DO ============ -->
+    <section aria-labelledby="todoTitle">
+      <div class="section-head">
+        <h2 id="todoTitle">To do <span class="count" id="todoCount"></span></h2>
+        <div class="filters">
+          <div class="chips" id="priorityChips" role="group" aria-label="Filter by priority"></div>
+          <label class="inline-select" for="categoryFilter">Category
+            <select id="categoryFilter"></select>
+          </label>
+          <label class="inline-select" for="sortSelect">Sort
+            <select id="sortSelect"></select>
+          </label>
+        </div>
+      </div>
+      <div id="todo"></div>
+    </section>
+
+    <!-- ============ DONE ============ -->
+    <section class="tray" aria-labelledby="doneTitle">
+      <div class="section-head">
+        <h2 id="doneTitle">Done <span class="count" id="doneCount"></span></h2>
+        <div id="archiveControls" class="row"></div>
+      </div>
+      <div id="done"></div>
+    </section>
+
+    <!-- ============ INSIGHTS ============ -->
+    <section class="insights" aria-labelledby="insightsTitle">
+      <div class="section-head">
+        <h2 id="insightsTitle">Insights</h2>
+        <div class="section-tools">
+          <p class="hint">Patterns from the tasks you finish. Archived notes still count.</p>
+          <button class="btn small" id="exportCsv" type="button">Export data (CSV)</button>
+        </div>
+      </div>
+      <div id="insights"></div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <p class="who" id="authorLine">Sticky Board · a student project</p>
+    <p>Built with HTML, CSS and plain JavaScript, with a Python analysis notebook for the exported data. Colours inspired by the University of Manitoba palette; not affiliated with or endorsed by the University.</p>
+  </footer>
+</div>
+
+<!-- Reminder and timer pop-ups stack here -->
+<div class="slips" id="slips" aria-live="assertive"></div>
+
+<!-- ============ EDIT TASK DIALOG ============ -->
+<dialog id="editDialog" aria-labelledby="editTitle">
+  <form class="dialog-body" id="editForm">
+    <h2 id="editTitle">Edit task</h2>
+    <div class="pad paper-bg small" id="editPad">
+      <label class="pad-label" for="editText">Task</label>
+      <textarea id="editText" rows="2" maxlength="500" required></textarea>
+      <label class="pad-label" for="editSteps">Steps, one per line</label>
+      <textarea id="editSteps" class="steps-input" rows="3"></textarea>
+    </div>
+    <div id="editFields"></div>
+    <div class="dialog-actions">
+      <button type="button" class="btn ghost" id="editCancel">Cancel</button>
+      <button type="submit" class="btn primary">Save changes</button>
+    </div>
+  </form>
+</dialog>
+
+<!-- ============ SOUND SETTINGS DIALOG ============ -->
+<dialog id="soundDialog" aria-labelledby="soundTitle">
+  <form class="dialog-body" id="soundForm">
+    <h2 id="soundTitle">Notification sounds</h2>
+    <p class="hint">Browsers only allow sound after you click somewhere on the page, so click once after opening it.</p>
+    <div class="sound-rows" id="soundRows"></div>
+    <label class="range-row" for="soundVolume">Volume
+      <input type="range" id="soundVolume" min="0" max="1" step="0.05">
+    </label>
+    <label class="check-row" for="repeatUrgent">
+      <input type="checkbox" id="repeatUrgent"> Repeat urgent reminders 3 times
+    </label>
+    <div class="custom-sound">
+      <span class="label">Your own sound</span>
+      <p class="hint" id="customStatus">Upload a short MP3, WAV or M4A under 1 MB. It's saved in this browser.</p>
+      <div class="row">
+        <input type="file" id="customFile" accept="audio/*">
+        <button type="button" class="btn small ghost" id="customRemove" hidden>Remove</button>
+      </div>
+    </div>
+    <label class="check-row" for="desktopNotify">
+      <input type="checkbox" id="desktopNotify"> Also show desktop notifications
+    </label>
+    <p class="hint" id="desktopStatus"></p>
+    <div class="dialog-actions">
+      <button type="button" class="btn primary" id="soundClose">Done</button>
+    </div>
+  </form>
+</dialog>
+
+<script src="js/config.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
